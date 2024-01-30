@@ -32,5 +32,7 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
 
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
-#### Autora
+#### Personalização do projeto
+Acrescentei que o cliente pode digitar em saldo tanto 11.11 quanto 11,11 que não retorna mensagem de erro. O código faz a verificação e altera se for nescessário.
+
 - [Karla Oshikawa](https://www.linkedin.com/in/karlaoshikawa/)
